@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Potapanje Brodova</string>
+    <string name="bPokreni">Pokreni igru</string>
+    <string name="bStatistika">Statistika</string>
+    <string name="bPostavke">Postavke</string>
+    <string name="promPoz">Promijeni pozadinu</string>
+    <string name="tezina">Težina</string>
+    <string name="desConfirm">Potvrda odabranog layouta brodova</string>
+    <string name="desRepeat">Ponavljanje nasumičnog odabira layouta brodova</string>
+    <string name="background1">Postavlja pozadinsku sliku na "background1.jpg</string>
+    <string name="background2">Postavlja pozadinsku sliku na "background2.jpg</string>
+    <string name="background3">Postavlja pozadinsku sliku na "background3.jpg</string>
+    <string name="pobjeda">Pobjedili ste!</string>
+    <string name="gubitak">Izgubili ste.</string>
+    <string name="nepoznatPostotak">-/-</string>
+    <string name="postotak">%</string>
+    <string name="ponistavanje">PONIŠTI</string>
+    <string name="primjenjivanje">PRIMIJENI</string>
+</resources>
